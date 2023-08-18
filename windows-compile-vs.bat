@@ -306,7 +306,7 @@ call configure^
  --with-simplexml^
  --with-sodium^
  --with-sqlite3=shared^
- --with-ssh2
+ --with-ssh2^
  --with-xdebug=shared^
  --with-xdebug-compression^
  --with-xml^
