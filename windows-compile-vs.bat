@@ -271,6 +271,7 @@ call configure^
  --enable-ctype^
  --enable-fileinfo=shared^
  --enable-filter^
+ --enable-ftp^
  --enable-hash^
  --enable-igbinary=shared^
  --enable-json^
@@ -305,6 +306,7 @@ call configure^
  --with-simplexml^
  --with-sodium^
  --with-sqlite3=shared^
+ --with-ssh2
  --with-xdebug=shared^
  --with-xdebug-compression^
  --with-xml^
